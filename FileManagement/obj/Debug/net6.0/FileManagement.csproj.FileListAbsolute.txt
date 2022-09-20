@@ -1,0 +1,24 @@
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\bin\Debug\net6.0\FileManagement.deps.json
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\bin\Debug\net6.0\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\bin\Debug\net6.0\ref\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\bin\Debug\net6.0\FileManagement.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.csproj.AssemblyReference.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfoInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfo.cs
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\ref\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\FileManagement\obj\Debug\net6.0\FileManagement.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\bin\Debug\net6.0\FileManagement.deps.json
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\bin\Debug\net6.0\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\bin\Debug\net6.0\ref\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\bin\Debug\net6.0\FileManagement.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.csproj.AssemblyReference.cache
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfoInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfo.cs
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\ref\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\FileManagement\obj\Debug\net6.0\FileManagement.pdb

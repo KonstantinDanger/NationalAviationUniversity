@@ -1,0 +1,8 @@
+Student: VasiaPupkin
+{ “firstname”: “Vasia”,
+“lastname”: “Pupkin”,
+“studentId”: “KB123456”};
+
+Teacher: IvanIvanov
+{ “firstname”: “Ivan”,
+“lastname”: “Ivanov”};

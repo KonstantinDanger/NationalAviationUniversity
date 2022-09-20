@@ -1,0 +1,25 @@
+Student:VasiaPupkin
+firstname:Vasia
+lastname:Pupkin
+studentId:KB123456
+
+Teacher:IvanIvanov
+firstname:Ivan
+lastname:Ivanov
+
+Student AnnyMay 
+first name: Anny, 
+last name: May, 
+is_male: False,
+student Id: DLB3gf, 
+birth date: 1/1/0001 12:00:00 AM, 
+cource: 6, 
+identity code: 43523, 
+average mark: 0
+
+Dentist GregoryBurry 
+first name: Gregory, 
+last name: Burry, 
+is_male: True,
+qualification level: 4, 
+salary: 9000

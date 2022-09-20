@@ -1,0 +1,40 @@
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.exe
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.deps.json
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.runtimeconfig.json
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\ref\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.csproj.AssemblyReference.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.AssemblyInfoInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.AssemblyInfo.cs
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.csproj.CoreCompileInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\ref\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.genruntimeconfig.cache
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Text\Data.txt
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\FileManagement.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.csproj.CopyComplete
+C:\Users\SerGun\Desktop\ООП\Лаб №3.1\Lab_3_1\bin\Debug\net6.0\Text\Output.txt
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.exe
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\IOData\Data.txt
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\IOData\Output.txt
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.deps.json
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.runtimeconfig.json
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\ref\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\Lab_3_1.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\FileManagement.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\bin\Debug\net6.0\FileManagement.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.csproj.AssemblyReference.cache
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.AssemblyInfoInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.AssemblyInfo.cs
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.csproj.CoreCompileInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.csproj.CopyComplete
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\ref\Lab_3_1.dll
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб№3.1\Lab_3_1\obj\Debug\net6.0\Lab_3_1.genruntimeconfig.cache
