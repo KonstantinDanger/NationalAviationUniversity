@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab_3_2/1.0.0": {
+        "dependencies": {
+          "BinaryTreeElements": "1.0.0"
+        },
+        "runtime": {
+          "Lab_3_2.dll": {}
+        }
+      },
+      "BinaryTreeElements/1.0.0": {
+        "runtime": {
+          "BinaryTreeElements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_3_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinaryTreeElements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

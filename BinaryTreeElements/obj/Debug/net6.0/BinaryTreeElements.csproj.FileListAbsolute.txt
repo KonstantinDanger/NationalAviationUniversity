@@ -1,0 +1,12 @@
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\bin\Debug\net6.0\BinaryTreeElements.deps.json
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\bin\Debug\net6.0\BinaryTreeElements.dll
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\bin\Debug\net6.0\ref\BinaryTreeElements.dll
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\bin\Debug\net6.0\BinaryTreeElements.pdb
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.csproj.AssemblyReference.cache
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.AssemblyInfoInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.AssemblyInfo.cs
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.csproj.CoreCompileInputs.cache
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.dll
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\ref\BinaryTreeElements.dll
+C:\Users\SerGun\Desktop\ООП\Лаб_№3.2\BinaryTreeElements\obj\Debug\net6.0\BinaryTreeElements.pdb
